@@ -4,7 +4,7 @@ date: 2018-07-27 11:47
 categories: linq
 ---
 
-## LINQ 
+## LINQ 정렬하기
 
 ### 참고
 <https://docs.microsoft.com/ko-kr/dotnet/csharp/programming-guide/concepts/linq/sorting-data>
