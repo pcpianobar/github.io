@@ -26,3 +26,8 @@ sharedMaterial을 수정하면 원본 에셋파일을 수정하는것과 동일�
 
 ### 일시적으로 재질 속성 변경하기
 MaterialPropertyBlock 를 이용하면 된다.
+
+
+## 참조
+https://docs.unity3d.com/kr/530/ScriptReference/Renderer-sharedMaterial.html
+http://cacodemon.tistory.com/entry/material-과-sharedMaterial-그리고-Material-Property-Block
