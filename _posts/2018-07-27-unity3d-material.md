@@ -4,8 +4,6 @@ date: 2018-07-27 11:47
 categories: unity3d; material; sharedMaterial
 ---
 
-# Unity3d에서 material vs sharedMaterial 차이
-
 ### 메뉴얼
 Unity3d의 메뉴엘에 아래와 같이 설명되어 있다.
 ```
