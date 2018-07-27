@@ -1,7 +1,7 @@
 ---
 title: "Unity3d에서 material vs sharedMaterial 차이"
 date: 2018-07-27 11:47
-categories: unity3d; material; sharedMaterial
+categories: unity3d material sharedMaterial
 ---
 
 ### 메뉴얼
