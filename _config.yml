@@ -16,10 +16,10 @@ minimal_mistakes_skin    : "default" # "air", "aqua", "contrast", "dark", "dirt"
 
 # Site Settings
 locale                   : "en-US"
-title                    : "pcpianobar's Devlog"
+title                    : "who0nyw's Devlog"
 title_separator          : "-"
-name                     : "pcpianobar"
-description              : "An amazing website."
+name                     : "hoony"
+description              : "개발에 필요한 기록들"
 url                      : "https://pcpianobar.github.io"
 baseurl                  : ""
 repository               : # GitHub username/repo-name e.g. "mmistakes/minimal-mistakes"
@@ -100,10 +100,10 @@ analytics:
 
 # Site Author
 author:
-  name             : "Your Name"
-  avatar           : # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
-  bio              : "I am an amazing person."
-  location         : "Somewhere"
+  name             : "hoony"
+  avatar           : "/assets/images/gizmo_duck_profile.jpg"
+  bio              : "유니티 개발자"
+  location         : "대한민국 서울"
   email            :
   uri              :
   home             : # null (default), "absolute or relative url to link to author home"
